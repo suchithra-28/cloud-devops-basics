@@ -1,0 +1,9 @@
+NETWORKING PRACTICE NOTES
+
+IP address identifies a machine.
+DNS converts domain names to IP.
+Ping checks connectivity.
+Ports allow services to communicate.
+SSH uses port 22.
+HTTP uses port 80.
+HTTPS uses port 443.

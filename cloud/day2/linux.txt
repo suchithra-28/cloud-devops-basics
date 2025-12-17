@@ -1,0 +1,7 @@
+pwd   - shows current directory
+ls    - list files
+cd    - change directory
+mkdir - create directory
+rm    - delete file 
+cp    - copy file
+mv    - move or rename file
