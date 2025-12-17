@@ -1,0 +1,29 @@
+# Ignore system folders
+AppData/
+Contacts/
+Downloads/
+Favorites/
+Links/
+Music/
+OneDrive/
+Saved Games/
+Searches/
+Videos/
+
+# Ignore programs
+anaconda3/
+VirtualBox VMs/
+env/
+ai-agent/
+
+# Ignore executables
+*.exe
+
+# Ignore logs & system files
+NTUSER.DAT*
+*.log
+*.LOG
+*.ini
+
+# Ignore databases
+*.db
