@@ -1,0 +1,10 @@
+Day 1 - terminal Basics
+ 
+
+pwd   - shows current working directory
+ls    - lists files and folders
+mkdir - creates folder 
+cd    - move into folder
+
+Note - 
+Windows Powershell and Linux commands differ.
